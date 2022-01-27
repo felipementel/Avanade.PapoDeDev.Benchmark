@@ -10,9 +10,9 @@ namespace Benchmarks
             //BenchmarkRunner.Run<ArrayAllocation>();
             //BenchmarkRunner.Run<BooleanVsException>();
             //BenchmarkRunner.Run<Concatenations>();
-            BenchmarkRunner.Run<ConcatVsStringbuilder>();
+            //BenchmarkRunner.Run<ConcatVsStringbuilder>();
             //BenchmarkRunner.Run<ForVsForeachWithLists>();
-            //BenchmarkRunner.Run<SubstringVsSlice>();
+            BenchmarkRunner.Run<SubstringVsSlice>();
             //BenchmarkRunner.Run<ThreadVsTask>();
         }
     }
