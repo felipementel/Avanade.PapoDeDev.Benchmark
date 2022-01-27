@@ -1,9 +1,12 @@
 # Avanade.PapoDeDev.Benchmark
 
+# ArrayAllocation
+![ArrayAllocation](https://github.com/felipementel/Avanade.PapoDeDev.Benchmark/blob/main/img/ArrayAllocation.jpg?raw=true)
 
 
-[![ArrayAllocation](https://github.com/felipementel/Avanade.PapoDeDev.Benchmark/blob/main/img/ArrayAllocation.jpg)
+# BooleanVsException
+![BooleanVsException](https://github.com/felipementel/Avanade.PapoDeDev.Benchmark/blob/main/img/BooleanVsException.jpg?raw=true)
 
-[![BooleanVsException](https://github.com/felipementel/Avanade.PapoDeDev.Benchmark/blob/main/img/BooleanVsException.jpg)
 
-[![Concatenations](https://github.com/felipementel/Avanade.PapoDeDev.Benchmark/blob/main/img/Concatenations.jpg)
+# Concatenations
+![Concatenations](https://github.com/felipementel/Avanade.PapoDeDev.Benchmark/blob/main/img/Concatenations.jpg?raw=true)
