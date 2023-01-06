@@ -1,7 +1,7 @@
 # Avanade.PapoDeDev.Benchmark
 
 # ArrayAllocation
-![ArrayAllocation](https://raw.githubusercontent.com/felipementel/Avanade.PapoDeDev.Benchmark/main/img/ArrayAllocation.jpg?raw=true)
+![ArrayAllocation](./img/ArrayAllocation.jpg?raw=true)
 
 
 # BooleanVsException
